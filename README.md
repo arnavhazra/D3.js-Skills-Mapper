@@ -2,15 +2,6 @@
 
 This web application uses Flask and D3.js to visualize a hierarchical structure of skills and roles, representing the learning path for different roles in the fields of data analysis, front-end engineering, and machine learning engineering.
 
-## Table of Contents
-
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Endpoints](#endpoints)
-- [Visualization](#visualization)
-- [License](#license)
-
 ## Prerequisites
 
 Make sure you have the following installed on your machine:
