@@ -15,19 +15,13 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/d3-visualization-web-app.git
+    git clone https://github.com/[username]/D3.js-Skills-Mapper.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd d3-visualization-web-app
-    ```
-
-3. Install the required Python packages:
-
-    ```bash
-    pip install -r requirements.txt
+    cd D3.js-Skills-Mapper
     ```
 
 ## Usage
